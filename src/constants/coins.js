@@ -62,6 +62,23 @@ const MAINNETCoins = [
   //   abbr: "SWISE",
   //   address: "0x48C3399719B582dD63eB5AADf12A40B4C3f52FA2", // not deployed
   // },
+  {
+    name: "Gold",
+    abbr: "GLD",
+    // address: "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599", 
+    address: '0xaa2A46a015dbA96Be4D24F1637002Ff1c8762b29'
+  },
+  {
+    name: "Pearl",
+    abbr: "PEARL",
+    // address: "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599", 
+    address: '0xf644ef54bCDDcC70f5bf1ba0BCe93E75Fb445Ba5'
+  },
+  {
+    name: "Diamond",
+    abbr: "DMD",
+    address: '0x66871BD88bddC937c8Da5Fb8fc3Ef7ab09B2336a'
+  }
 ]
 
 const COINS = new Map()
